@@ -1,7 +1,7 @@
 ---
 title: Swasthya Diets
 subtitle: Helping you create healthy habits
-image: img/brooke-lark-4j059aga5s4-unsplash.jpg
+image: img/ezgif.com-gif-maker.webp
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
